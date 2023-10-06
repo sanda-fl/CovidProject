@@ -1,4 +1,4 @@
-# CovidProject Data Exploration and Preparation
+# Covid Project Data Exploration and Preparation
 - SQL data preparation to put together the data we needed to create a Tableau Visualization 
 
 - Data extracted from Our World in Data, at https://ourworldindata.org/explorers/coronavirus-data-explorer 
